@@ -11,7 +11,7 @@ You can download the zip file of it here
 
 
 This is the profit I've made over 28-day test
-
+<img src="https://github.com/SebastianTutorials/ETHEREUM-Yield-farming-bot-with-USDC-Stoploss/raw/main/hju.png">
 
 The best part the more volatility the more it seems to profit.
 
