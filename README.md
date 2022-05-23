@@ -15,7 +15,24 @@ This is the profit I've made over 28-day test
 
 The best part the more volatility the more it seems to profit.
 
+Let’s get started.
 
+Part 1. Main software installations.
+
+Extract the Max-yield-farmer-with-stablecoin-stoploss.zip anywhere thats easily accessible to you.
+
+Part 2. Edit the settings.
+
+Open the unzip folder find the "config.js" file and open it with a text editor:
+
+1.Set your wallet address and private key or your wallet seed if you have a wallet that does not give you the private key
+
+2.Set the "networks"  1 = ETH , 2 = BNB , 3 = polygon 
+
+3.Set the "maxspend" max amount you want to uses in the address you provided "make sure you have the amount in your wallet you provided or it will error out" 
+
+
+Want to thank me my eth/bnb/polygon address is 0x2431bec69aa4699ad9A9aE77233F7bdcD6d631f8
 
 
 
